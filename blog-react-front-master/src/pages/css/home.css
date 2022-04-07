@@ -1,0 +1,57 @@
+#div1{
+	margin: 0px auto;
+	width: 550px;
+}
+
+.medio{
+	text-align: center;
+}
+
+#div2{
+	margin: 0px auto;
+	width: 750px;
+}
+
+#div2 .articulos{
+	width: 750px;
+	margin: 0px auto;
+	margin-top: 20px;
+	height: 140px;
+	padding: 15px;
+	border: 1px solid #ccc;
+}
+
+.articulos{
+	width: 750px;
+	margin: 0px auto;
+	margin-top: 20px;
+	height: 140px;
+	padding: 15px;
+	border: 1px solid #ccc;
+}
+
+.links{
+	text-decoration: none!important;
+}
+
+.comentarios{
+	width: 250px;
+}
+
+.comentarios label{
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.comentarios p{
+	margin-top: 1px;
+	margin-bottom: 20px;
+}
+
+.formulario{
+	width: 150px;
+}
+
+form input{
+	margin-bottom: 10px;
+}
